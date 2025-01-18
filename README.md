@@ -146,7 +146,7 @@ Certifique-se de ter o Node.js instalado.
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/desafios-logica.git
+git clone [https://github.com/seuusuario/desafios-logica.git](https://github.com/Marcelino85/target_system_resolution)
 cd desafios-logica
 
 Execute os scripts:
@@ -157,4 +157,4 @@ node src/inversao_string.js
 
 Contato
 
-Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato pelo meu LinkedIn.
+Caso tenha dúvidas ou sugestões, sinta-se à vontade para abrir uma issue ou entrar em contato pelo meu LinkedIn https://www.linkedin.com/in/marcelino-albuquerque-developer.
